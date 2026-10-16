@@ -37,7 +37,7 @@ export default function WorkerProfile() {
     return (
       <div className="profile profile--empty">
         <div className="profile__card">
-          <p className="profile__eyebrow">Bloom &amp; Tag</p>
+          <p className="profile__eyebrow">Darshana Lover Shop</p>
           <h1>We couldn't find this staff tag</h1>
           <p className="profile__note">
             {error
@@ -55,7 +55,7 @@ export default function WorkerProfile() {
   return (
     <div className="profile">
       <div className="profile__card">
-        <p className="profile__eyebrow">Bloom &amp; Tag · Meet the team</p>
+        <p className="profile__eyebrow">Darshana Lover Shop · Meet the team</p>
 
         <div className="profile__photo">
           {worker.photo ? (

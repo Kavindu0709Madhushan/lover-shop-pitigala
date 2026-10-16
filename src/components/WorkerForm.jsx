@@ -3,13 +3,15 @@ import { uploadImageToImgbb } from "../data/imgbb.js";
 import "./WorkerForm.css";
 
 const SECTIONS = [
-  "Bouquet Counter",
-  "Delivery",
+  "Beautician",
+  "Hairdresser",
+  "Beautician & Hairdresser",
   "Cash Counter",
-  "Nursery Care",
-  "Design Studio",
-  "Wedding & Events",
-  "Other",
+  "Nail Care",
+  "Facial & Skin Care",
+  "Gift Items Section",
+  "Accessories Section",
+  "Custom Gifts & Packaging"
 ];
 
 const emptyForm = {

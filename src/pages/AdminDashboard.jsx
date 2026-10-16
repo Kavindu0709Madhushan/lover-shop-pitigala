@@ -75,7 +75,7 @@ export default function AdminDashboard() {
       <header className="admin__header">
         <div>
           <p className="admin__eyebrow">Staff Directory</p>
-          <h1>Bloom &amp; Tag</h1>
+          <h1>Darshana Lover Shop</h1>
           <p className="admin__sub">
             Add your team, then print or share each person's QR tag. Customers
             scan it to see who they're talking to - from any phone, anywhere.
